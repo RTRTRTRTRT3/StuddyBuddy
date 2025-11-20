@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"28697409eede1a3b","type":"file","file":"design/first page.png","x":-2374,"y":-439,"width":185,"height":400},
+		{"id":"33abee6eb951f636","type":"file","file":"design/log in.png","x":-1800,"y":-713,"width":185,"height":400},
+		{"id":"4094e6fc4195b12e","type":"file","file":"design/sign in or up-1.png","x":-1800,"y":-1160,"width":185,"height":400},
+		{"id":"8a4755c75d73b542","type":"file","file":"design/lessons page (1).png","x":-920,"y":-439,"width":200,"height":654},
+		{"id":"6c47efe884d57778","type":"file","file":"design/profile-1.png","x":-400,"y":-88,"width":185,"height":400},
+		{"id":"953e3ce4d6a5b35e","type":"text","text":"Если происходит ошибка, например поле пусто или неверный имейл, то края загораются красным как индикатор ошибки","x":-1580,"y":-1060,"width":392,"height":135},
+		{"id":"29902511945c0b80","type":"file","file":"design/sign in or up.png","x":-2120,"y":-439,"width":185,"height":400},
+		{"id":"3b6c2d1c9380ccb4","type":"file","file":"design/iPhone 14 & 15 Pro - 2.png","x":-475,"y":-1160,"width":185,"height":400},
+		{"id":"aba1b62d2927a7f8","type":"file","file":"design/iPhone 14 & 15 Pro - 1.png","x":-752,"y":-1160,"width":185,"height":400},
+		{"id":"71579c59c4982860","type":"text","text":"Навигация находится внизу, где четыре кнопки которые меняются между собой. ","x":-1470,"y":-640,"width":718,"height":127},
+		{"id":"e28ce17d04851cd6","type":"file","file":"design/see all page.png","x":-1598,"y":112,"width":185,"height":809},
+		{"id":"1e34d70fc11c2408","type":"file","file":"design/profile.png","x":-680,"y":-439,"width":200,"height":434},
+		{"id":"8cf37e596cc29e14","type":"file","file":"design/lessons page.png","x":-1160,"y":-439,"width":200,"height":738},
+		{"id":"f1601e137db6add3","type":"file","file":"design/home page.png","x":-1400,"y":-439,"width":200,"height":434}
+	],
+	"edges":[
+		{"id":"58ca069ca8efadb3","fromNode":"28697409eede1a3b","fromSide":"right","toNode":"29902511945c0b80","toSide":"left"},
+		{"id":"a824b5d0ee9d1f99","fromNode":"29902511945c0b80","fromSide":"right","toNode":"33abee6eb951f636","toSide":"left"},
+		{"id":"e2c948b3346a2fc3","fromNode":"33abee6eb951f636","fromSide":"right","toNode":"f1601e137db6add3","toSide":"left"},
+		{"id":"485da93f4b8a2a4b","fromNode":"29902511945c0b80","fromSide":"right","toNode":"f1601e137db6add3","toSide":"left"},
+		{"id":"59db1a41d3e74008","fromNode":"1e34d70fc11c2408","fromSide":"right","toNode":"6c47efe884d57778","toSide":"top"},
+		{"id":"ec8f8d283522a264","fromNode":"6c47efe884d57778","fromSide":"bottom","toNode":"28697409eede1a3b","toSide":"bottom"},
+		{"id":"e3b83c02a81eda84","fromNode":"f1601e137db6add3","fromSide":"bottom","toNode":"e28ce17d04851cd6","toSide":"top"},
+		{"id":"bb2da2336df9cc21","fromNode":"1e34d70fc11c2408","fromSide":"top","toNode":"aba1b62d2927a7f8","toSide":"bottom"},
+		{"id":"0b5c908e7a250720","fromNode":"aba1b62d2927a7f8","fromSide":"right","toNode":"3b6c2d1c9380ccb4","toSide":"left"}
+	]
+}

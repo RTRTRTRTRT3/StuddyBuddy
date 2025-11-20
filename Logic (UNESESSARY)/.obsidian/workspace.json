@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "7d657595a2a4e965",
+    "type": "split",
+    "children": [
+      {
+        "id": "93d8e636aa880c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc98e7eeb462472",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -987.8854049969141,
+                  "y": -74.9985549870916,
+                  "zoom": 0.08414106965892454
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "07999c6f8c03c91f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1294.5,
+                  "y": -424,
+                  "zoom": -0.783014567078411
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "43e456afd4a146dc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1294.5,
+                  "y": -119.5,
+                  "zoom": -1.2825138607567332
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0430d79ecb1e702",
+    "type": "split",
+    "children": [
+      {
+        "id": "d08ec185f7f73228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb834f07d4e20144",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af8673236026f7bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1986c9dfc575b92a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f74bf87c9db7482e",
+    "type": "split",
+    "children": [
+      {
+        "id": "600e9531a8b93b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01b1d53eff45fd65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "631e0719e788519d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "7fab78723663cfb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "07a6711fcb1a9a84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "43e456afd4a146dc",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "design/profile.png",
+    "design/Снимок экрана 2025-09-22 231441.png",
+    "design/iPhone 14 & 15 Pro - 1.png",
+    "design/lessons page-1.png",
+    "design/iPhone 14 & 15 Pro - 2.png",
+    "design/first page.png",
+    "design/sign in or up-1.png",
+    "design/see all page.png",
+    "design/lessons page (1).png",
+    "design/home page.png",
+    "photos",
+    "mobile design edu.lnk",
+    "Новый ярлык.lnk",
+    "Untitled",
+    "Новая папка"
+  ]
+}
